@@ -2,6 +2,14 @@
 
 A structured set of hands-on tutorials for learning the Go programming language.
 
+## Installing Go
+
+https://go.dev/doc/install
+
+```bash
+sudo apt  install golang-go
+```
+
 ## Course Index
 
 - [01_hello_world](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/01_hello_world/README.md) - Setting up and running a simple "Hello, World!" program.

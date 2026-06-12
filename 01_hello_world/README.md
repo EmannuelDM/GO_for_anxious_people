@@ -2,14 +2,6 @@
 
 A simple Hello World program written in Go.
 
-## Installing Go
-
-https://go.dev/doc/install
-
-```bash
-sudo apt  install golang-go
-```
-
 ## Running the Program
 
 To run the program, navigate to this directory (`01_hello_world`) and execute the following commands:
