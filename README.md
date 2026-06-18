@@ -16,3 +16,5 @@ sudo apt  install golang-go
 - [02_a_variables](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/02_a_variables/README.md) - Understanding Go variable declarations, types, and values.
 - [02_b_keywords](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/02_b_keywords/README.md) - Reserved keywords and predeclared identifiers (constants, types, and functions).
 - [02_c_pointers](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/02_c_pointers/README.md) - Declaring, using, and passing pointers to functions and structs.
+- [02_d_packages](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/02_d_packages/README.md) - Understanding Go packaging, import paths, visibility (exported vs. unexported), and package initialization.
+
