@@ -17,4 +17,6 @@ sudo apt  install golang-go
 - [02_b_keywords](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/02_b_keywords/README.md) - Reserved keywords and predeclared identifiers (constants, types, and functions).
 - [02_c_pointers](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/02_c_pointers/README.md) - Declaring, using, and passing pointers to functions and structs.
 - [02_d_packages](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/02_d_packages/README.md) - Understanding Go packaging, import paths, visibility (exported vs. unexported), and package initialization.
+- [02_e_binary_operators](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/02_e_binary_operators/README.md) - Understanding Go binary operators (arithmetic, comparison, logical, bitwise) and operator precedence.
+- [02_f_funny_code](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/02_f_funny_code/README.md) - A 3-D wireframe surface plotter demonstrating floating-point operations and SVG generation.
 
