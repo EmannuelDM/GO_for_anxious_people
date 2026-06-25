@@ -19,4 +19,6 @@ sudo apt  install golang-go
 - [02_d_packages](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/02_d_packages/README.md) - Understanding Go packaging, import paths, visibility (exported vs. unexported), and package initialization.
 - [02_e_binary_operators](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/02_e_binary_operators/README.md) - Understanding Go binary operators (arithmetic, comparison, logical, bitwise) and operator precedence.
 - [02_f_funny_code](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/02_f_funny_code/README.md) - A 3-D wireframe surface plotter demonstrating floating-point operations and SVG generation.
+- [03_a_arrays](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/03_a_arrays/README.md) - Declaring, initializing, iterating, copying, and comparing arrays.
+
 
