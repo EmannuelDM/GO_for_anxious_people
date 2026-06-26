@@ -21,3 +21,5 @@ sudo apt  install golang-go
 - [02_f_funny_code](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/02_f_funny_code/README.md) - A 3-D wireframe surface plotter demonstrating floating-point operations and SVG generation.
 - [03_a_arrays](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/03_a_arrays/README.md) - Declaring, initializing, iterating, copying, and comparing arrays.
 - [03_b_slices](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/03_b_slices/README.md) - Understanding slices, slice headers (pointer, length, capacity), appending, copying, and slicing operations.
+- [03_c_Maps](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/03_c_Maps/README.md) - Understanding Go maps, declaration, key constraints, operations, iteration, and concurrency safety.
+
