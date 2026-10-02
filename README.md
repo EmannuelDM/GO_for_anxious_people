@@ -26,4 +26,5 @@ sudo apt  install golang-go
 - [04_json](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/04_json/README.md) - Working with JSON in Go: marshaling, unmarshaling, struct tags, streaming, dynamic JSON, and custom encoders.
 - [05_a_functions](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/05_a_functions/README.md) - Understanding Go functions: declarations, multiple returns, named returns, variadic parameters, closures, defer, and panic/recover.
 - [05_b_functions](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/05_b_functions/README.md) - Advanced function concepts: idiomatic error handling, sentinel errors, EOF stream mechanics, anonymous functions, closures, and variadic functions.
-
+- [06_a_OOP_methods](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/06_a_OOP_methods/README.md) - Understanding Go methods: method declarations, value vs pointer receivers, addressability, method expressions, and nil as a valid receiver.
+- [06_b_encapsulation](file:///home/ema/Documentos/otros/proyectos/Go%20tutoriales/06_b_encapsulation/README.md) - Understanding Encapsulation in Go: package-level boundaries, invariant enforcement, constructor pattern, defensive copying, and interface-based hiding.
